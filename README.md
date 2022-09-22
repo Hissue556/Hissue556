@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on **front-end projects**
 - 📚 I’m currently learning **React.Js**
-- ⚡ Fun fact: I'm a **quick learner** && a **good listener**
+- ⚡ Fun fact: I'm a **quick learner** && **good listener**
 
 <h3 align="right">mySkills🔎</h3>
 <p align="right">
