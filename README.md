@@ -20,7 +20,7 @@
 <h1 align="left">aboutMe📑</h1>
 <p align="left">
   I'm a 23 years old Italian guy ready to learn anything about programming.<br>
-  Started my journey with front-end development aiming to full-stack development.<br>
+  Started my journey with front-end development.<br>
   Also spent my life playing videogames && building computers.<br>
   Tech savvy since 1999.
 
