@@ -21,7 +21,7 @@
 <p align="left">
   I'm a 23 years old Italian guy ready to learn anything about programming.<br>
   Started my journey with front-end development.<br>
-  Also spent my life playing videogames && building computers.<br>
+  Also spent my life playing videogames and building computers.<br>
   Tech savvy since 1999.
 
 <h3 align="center">contactMe📲</h3>
