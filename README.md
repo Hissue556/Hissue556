@@ -27,5 +27,4 @@
 <h3 align="center">contactMe📲</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gianni-pintus-23124b23a/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="myLinkedIn" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/hissue5.56/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="myInsta" height="40" width="40"/></a>
   <a href="mailto:hissue5.56@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="myInsta" height="40" width="40"/></a>
